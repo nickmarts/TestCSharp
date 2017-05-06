@@ -1,0 +1,9 @@
+C:\Users\nickm\Documents\GitHub\TestCSharp\TestProject\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\nickm\Documents\GitHub\TestCSharp\TestProject\TestProject\bin\Debug\TestProject.exe
+C:\Users\nickm\Documents\GitHub\TestCSharp\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Users\nickm\Documents\GitHub\TestCSharp\TestProject\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\nickm\Documents\GitHub\TestCSharp\TestProject\TestProject\obj\Debug\TestProject.Form1.resources
+C:\Users\nickm\Documents\GitHub\TestCSharp\TestProject\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\nickm\Documents\GitHub\TestCSharp\TestProject\TestProject\obj\Debug\TestProject.csproj.GenerateResource.Cache
+C:\Users\nickm\Documents\GitHub\TestCSharp\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\Users\nickm\Documents\GitHub\TestCSharp\TestProject\TestProject\obj\Debug\TestProject.pdb
